@@ -1,9 +1,11 @@
 Data Dictionary - Human Activity Recognition Using Smartphones
 
 average
+
   Average value grouped by subject, activity, and metric.
   
 labels
+
   LAYING
   SITTING
   STANDING
@@ -13,6 +15,7 @@ labels
   
   
 subject
+
   1
   2
   3
@@ -45,6 +48,7 @@ subject
   30
   
 variable
+
   1	fBodyAcc.mean...X
   2	fBodyAcc.mean...Y
   3	fBodyAcc.mean...Z

@@ -1,6 +1,7 @@
 Data Dictionary - Human Activity Recognition Using Smartphones
 
 average
+</break>
   Average value grouped by subject, activity, and metric.
   
 labels
